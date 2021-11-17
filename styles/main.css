@@ -1,0 +1,36 @@
+/* navbar */
+.navbar {
+    background-color: #003049;
+    color: #fff;
+    height: 80px;
+}
+
+.navbar ul {
+    display: flex;
+    
+  }
+
+.navbar a {
+    color: #fff;
+    padding: 15px;
+    margin: 0 10px;
+  }
+.navbar  {
+    justify-content: space-between;
+}
+ 
+ul {
+    list-style-type: none;
+  }
+
+a {
+    text-decoration: none;
+  }
+  
+.container {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 0;
+  }
