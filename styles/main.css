@@ -161,7 +161,7 @@ p {
 }
 h3 {
   text-align: center;
-  background-color: white;
+  
   display: block;
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -174,7 +174,27 @@ h3 {
 }
 
 
+.card {
+  background-color: whitesmoke;
+  color: #333;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  padding: 100px;
+  padding-left: 500px;
+  padding-right: 500px;
+  padding-top:100px;
+  padding-bottom: 80px;
+  margin: 10px;
+  text-align: center;
+  margin: 18px 10px 40px;
+  max-width:fit-content;
 
+}
+
+h3 {
+  background-color: whitesmoke;
+
+}
 
 
 
@@ -185,4 +205,7 @@ footer {
   text-align: center;
 }
 
-
+.identity {
+  text-align: left;
+  background-color: whitesmoke;
+}
